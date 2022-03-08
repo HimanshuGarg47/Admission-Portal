@@ -1,0 +1,13 @@
+.navtext{
+    font-weight: bold  ;
+}
+
+/* .carousel {
+    width:100%;
+    height:200px;
+  } */
+
+  .carousel-inner > .carousel-item > img {
+    width:640px;
+    height:560px;
+  }
